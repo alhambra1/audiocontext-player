@@ -1,5 +1,5 @@
 /**
-* Written by Gilad Barkan, October, 2017
+* Written by Gilad Barkan, 2017
 * Inspired by:
 * http://www.creativebloq.com/netmag/how-manipulate-and-visualise-web-audio-91413066
 * https://stackoverflow.com/questions/32563298/audiocontext-issue-with-safari
